@@ -15,7 +15,7 @@
 <a href="https://twitter.com/@chowdhariaashir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@chowdhariaashir" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aashirchowdhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashirchowdhari" height="30" width="40" /></a>
 <a href="https://fb.com/aashirchowdhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aashirchowdhari" height="30" width="40" /></a>
-<a href="https://instagram.com/aashir_001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aashir001" height="30" width="40" /></a>
+<a href="https://instagram.com/aashir001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aashir001" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
