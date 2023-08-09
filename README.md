@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashirchowdhari&label=Profile%20views&color=0e75b6&style=flat" alt="aashirchowdhari" /> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **MERN** and a student of BS AI
 
 - 📫 How to reach me **aashirchowdhari@gmail.com**
 
