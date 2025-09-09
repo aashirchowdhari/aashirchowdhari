@@ -17,7 +17,7 @@
 * 🤖 FYP: **NAO Humanoid with GPT-powered multimodal assistant** (Vision, Speech, RAG)
 * 🧠 Focus: **Computer Vision, NLP, RL, RAG pipelines**
 * ☁️ **Cloud-Native MLOps**: Docker • Kubernetes • CI/CD • scalable integrations
-* 💡 I turn **AI research into products** — from intelligent dashboards to humanoid robotics
+* 💡 Dedicated to transforming **AI research into production-ready solutions** — from intelligent dashboards to humanoid robotics
 * 📫 Reach me: **[aashirchowdhari@gmail.com](mailto:aashirchowdhari@gmail.com)**
 
 ---
@@ -118,12 +118,6 @@
 * Building **multimodal agents** for robotics and real-world human interaction
 * Production-grade **MLOps** (containerization, CI/CD, monitoring)
 * **RAG** systems with vector search and domain-specific evaluation
-
----
-
-## 💬 Fun Fact
-
-When my robots are idle, they read research papers so I don’t have to. (They still ask for more GPU 🙃)
 
 ---
 
