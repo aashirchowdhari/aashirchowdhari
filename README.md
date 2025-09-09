@@ -98,16 +98,17 @@
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=aashirchowdhari&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashirchowdhari&layout=compact&theme=tokyonight" alt="Top languages"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=aashirchowdhari&theme=tokyonight" alt="GitHub Streak"/>
 
 </div>
 
+
 ## 🧪 Current Focus
 
-* Building **multimodal agents** for robotics and real-world human interaction
-* Production-grade **MLOps** (containerization, CI/CD, monitoring)
-* **RAG** systems with vector search and domain-specific evaluation
+* 🤖 Multimodal agents for robotics & real-world interaction
+⚙️ Production-grade MLOps & scalable cloud-native AI
+📚 RAG systems with domain-specific evaluation
+🗣️ Voice & vision integration for conversational AI
 
 ## 📫 Contact
 
