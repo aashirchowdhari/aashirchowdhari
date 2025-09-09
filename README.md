@@ -10,7 +10,7 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🎓 **Graduate in Artificial Intelligence & Robotics  (SZABIST, Karachi)**  
+- 🎓 **Graduate in Artificial Intelligence & Robotics (SZABIST, Karachi)**  
 - 🚀 Creator of **Zabiverse – An AI-powered multimodal assistant (Web + Mobile + NAO Robot)**  
 - 🤖 FYP: **NAO Humanoid Robot with GPT-powered multimodal assistant (Vision, Speech, RAG)**  
 - 📊 Expertise in **Computer Vision, NLP, Reinforcement Learning, and RAG pipelines**  
@@ -22,10 +22,10 @@
 
 ### 🌍 Connect with Me  
 <p align="left">
-<a href="https://twitter.com/chowdhariaashir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chowdhariaashir" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aashirchowdhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashirchowdhari" height="30" width="40" /></a>
-<a href="https://fb.com/aashirchowdhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aashirchowdhari" height="30" width="40" /></a>
-<a href="https://instagram.com/aashir001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aashir001" height="30" width="40" /></a>
+<a href="https://twitter.com/chowdhariaashir" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chowdhariaashir" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aashirchowdhari" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashirchowdhari" height="30" width="40" /></a>
+<a href="https://fb.com/aashirchowdhari" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aashirchowdhari" height="30" width="40" /></a>
+<a href="https://instagram.com/aashir001" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aashir001" height="30" width="40" /></a>
 </p>
 
 ---
@@ -42,7 +42,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/> 
-  <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black.png" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo2.png" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/> 
 </p>
@@ -53,7 +53,7 @@
 <p align="left">
   <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40" height="40"/> 
   <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40" height="40" alt="LangChain"/> 
-  <img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="40" height="40"/> 
   <img src="https://seeklogo.com/images/G/google-gemini-logo-27A62997A4-seeklogo.com.png" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/facebookresearch/faiss/main/docs/source/_static/img/logo.png" width="40" height="40"/> 
 </p>
@@ -69,14 +69,11 @@
 ---
 
 ### 📊 GitHub Stats  
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashirchowdhari&show_icons=true&locale=en&layout=compact" alt="aashirchowdhari" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aashirchowdhari&show_icons=true&theme=radical" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashirchowdhari&layout=compact&theme=radical" alt="Top Languages" height="165"/>
 </p>
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aashirchowdhari&show_icons=true&locale=en" alt="aashirchowdhari" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashirchowdhari" alt="aashirchowdhari" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashirchowdhari&theme=radical" alt="GitHub Streak"/>
 </p>
