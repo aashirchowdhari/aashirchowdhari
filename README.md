@@ -20,8 +20,6 @@
 * 💡 Dedicated to transforming **AI research into production-ready solutions** — from intelligent dashboards to humanoid robotics
 * 📫 Reach me: **[aashirchowdhari@gmail.com](mailto:aashirchowdhari@gmail.com)**
 
----
-
 ## 🌍 Connect with Me
 
 <p>
@@ -30,8 +28,6 @@
   <a href="https://fb.com/aashirchowdhari" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30"/></a>
   <a href="https://instagram.com/aashir001" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30"/></a>
 </p>
-
----
 
 ## 🛠️ Languages & Tools
 
@@ -89,16 +85,12 @@
   <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white" alt="Excel"/>
 </p>
 
----
-
 ## 📌 Featured Projects
 
 * **Zabiverse AI Assistant** — Multimodal GPT assistant (FAISS • LangChain • React • Flask • Mobile)
 * **NAO Humanoid Robot** — GPT-powered speech/vision with RAG-based QA
 * **Traffic Vision Analytics** — CV-based adaptive traffic light control (OpenCV)
 * **Focus Monitoring System** — Real-time distraction detection (Eye-Gaze, Posture, Mobile-Usage)
-
----
 
 ## 📊 GitHub Stats
 
@@ -111,15 +103,11 @@
 
 </div>
 
----
-
 ## 🧪 Current Focus
 
 * Building **multimodal agents** for robotics and real-world human interaction
 * Production-grade **MLOps** (containerization, CI/CD, monitoring)
 * **RAG** systems with vector search and domain-specific evaluation
-
----
 
 ## 📫 Contact
 
