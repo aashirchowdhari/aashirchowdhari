@@ -51,12 +51,25 @@
 
 ### 🤖 AI Tools & Frameworks  
 <p align="left">
-  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40" height="40"/> 
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40" height="40" alt="HuggingFace"/> 
   <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40" height="40" alt="LangChain"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="40" height="40"/> 
-  <img src="https://seeklogo.com/images/G/google-gemini-logo-27A62997A4-seeklogo.com.png" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/facebookresearch/faiss/main/docs/source/_static/img/logo.png" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="40" height="40" alt="OpenAI"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/google-gemini-icon.svg" width="40" height="40" alt="Google Gemini"/> 
+  <img src="https://raw.githubusercontent.com/facebookresearch/faiss/main/docs/source/_static/img/logo.png" width="40" height="40" alt="FAISS"/> 
 </p>
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aashirchowdhari&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashirchowdhari&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aashirchowdhari&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
 
 ---
 
