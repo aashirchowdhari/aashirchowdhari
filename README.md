@@ -1,13 +1,13 @@
 <div align="center">
 
-# Aashir Chowdhari
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1C3C3C&height=200&section=header&text=Aashir%20Chowdhari&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%94%20Computer%20Vision%20%C2%B7%20LLMs%20%26%20RAG%20%C2%B7%20Voice%20AI&descAlignY=58&descSize=18"/>
 
-### AI Engineer — Computer Vision · LLMs & RAG · Voice AI · Production ML Systems
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Building+production+AI+systems%2C+not+just+prototypes;Computer+Vision+%7C+LLMs+%26+RAG+%7C+Voice+AI;Currently+shipping+at+SavTech+Digital" alt="Typing SVG"/></a>
 
 I build AI systems that actually ship — from custom-trained vision models running in the field to LLM-powered voice platforms serving real clients. Based in Karachi, Pakistan.
 
 [![Email](https://img.shields.io/badge/Email-aashirchowdhari%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:aashirchowdhari@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/aashirchowdhari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashir-chowdhari-953a02209/)
 [![Portfolio](https://img.shields.io/badge/GitHub-aashirchowdhari-181717?logo=github&logoColor=white)](https://github.com/aashirchowdhari)
 <img src="https://komarev.com/ghpvc/?username=aashirchowdhari&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 
@@ -108,11 +108,19 @@ YOLO detection + ByteTrack tracking running on local GPU agents at client premis
 
 <br/>
 
+## Contribution Graph
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/aashirchowdhari/aashirchowdhari/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+</div>
+
+<br/>
+
 ## GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aashirchowdhari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashirchowdhari&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=aashirchowdhari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aashirchowdhari&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=aashirchowdhari&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </div>
@@ -129,5 +137,7 @@ YOLO detection + ByteTrack tracking running on local GPU agents at client premis
 <div align="center">
 
 *If something here was useful to you, a ⭐ on the repo goes a long way.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C3C3C,100:0e75b6&height=100&section=footer"/>
 
 </div>
