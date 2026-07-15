@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1C3C3C&height=200&section=header&text=Aashir%20Chowdhari&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%94%20Computer%20Vision%20%C2%B7%20LLMs%20%26%20RAG%20%C2%B7%20Voice%20AI&descAlignY=58&descSize=18"/>
+# Aashir Chowdhari
+
+### AI Engineer — Computer Vision · LLMs & RAG · Voice AI · Production ML Systems
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Building+production+AI+systems%2C+not+just+prototypes;Computer+Vision+%7C+LLMs+%26+RAG+%7C+Voice+AI;Currently+shipping+at+SavTech+Digital" alt="Typing SVG"/></a>
 
@@ -137,7 +139,5 @@ YOLO detection + ByteTrack tracking running on local GPU agents at client premis
 <div align="center">
 
 *If something here was useful to you, a ⭐ on the repo goes a long way.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C3C3C,100:0e75b6&height=100&section=footer"/>
 
 </div>
