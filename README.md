@@ -119,8 +119,8 @@ YOLO detection + ByteTrack tracking running on local GPU agents at client premis
 ## GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=aashirchowdhari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats"/>
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aashirchowdhari&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+<img height="165" src="./profile/stats.svg" alt="GitHub stats"/>
+<img height="165" src="./profile/top-langs.svg" alt="Top languages"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=aashirchowdhari&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </div>
